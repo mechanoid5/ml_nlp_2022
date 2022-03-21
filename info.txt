@@ -21,6 +21,17 @@ BERT 2018
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
+QA, MT, Summarization,
+Siamease,
+GloVe,
+CharCNN, Seq2Seq,
+Attention, Transformer, BERT, GPT
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
 нейросетевые LM
 
 charCNN
